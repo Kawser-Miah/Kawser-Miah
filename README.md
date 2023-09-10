@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kawser Miah
 #### App Developer
-![App Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/326189356_471014955242006_6378304550019700760_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeHItW6TnfGcsakHzgfr-VCl_8azQLfT7h__xrNAt9PuH8389Q3Mc_9VyEfi6lTL6LgjXNyUez97apZ5aX2XniIT&_nc_ohc=bnLmOFQMg5AAX93uN8H&_nc_ht=scontent.fdac14-1.fna&oh=00_AfAncLQwNMNsKOhAzATr4wrN1Avp9DSRm3ATR58pvNjaTQ&oe=65026A54)
+
 
 
 Skills: DART / FLUTTER / C
