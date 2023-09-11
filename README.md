@@ -1,16 +1,20 @@
 ### Hi there 👋, I'm Kawser Miah
-#### App Developer
 
+- 🔭 I’m currently working on **my BMI App project.**
 
+- 🌱 I’m currently learning **dart & flutter.**
 
-Skills: DART / FLUTTER / C
+- 👯 I’m looking to collaborate on **gitHub.**
 
-- 🔭 I’m currently working on my BMI App project. 
-- 🌱 I’m currently learning dart & flutter. 
-- 👯 I’m looking to collaborate on github. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kawserahme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawserahme" height="30" width="40" /></a>
+<a href="https://fb.com/100010207877779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100010207877779" height="30" width="40" /></a>
+<a href="https://instagram.com/kawser_ahmed._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawser_ahmed._" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kawser-Miah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100010207877779)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kawser_ahmed._//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/KawserAhme)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawser-Miah)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawser-miah&show_icons=true&locale=en&layout=compact" alt="kawser-miah" /></p>
 
