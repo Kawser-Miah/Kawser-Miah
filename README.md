@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kawser Miah
 
-- 🔭 I’m currently working on **my BMI App project.**
+- 🔭 I’m currently working on **Flutter.**
 
 - 🌱 I’m currently learning **dart & flutter.**
 
