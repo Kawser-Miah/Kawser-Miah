@@ -21,9 +21,12 @@ If you have a project or idea, feel free to reach out.
 
 ## 🛠️ My Favorite Tech Stack
 
-| Java | Kotlin | Android | Kotlin Multiplatform | Flutter | Dart | Python |
-|-------|--------|---------|---------------------|---------|------|--------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin Multiplatform" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> |
+## 🛠️ My Favorite Tech Stack
+
+| Flutter | Dart | Java | Kotlin | Ktor |
+|---------|------|------|--------|------|
+| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ktor/ktor-original.svg" alt="Ktor" width="40" height="40"/> |
+
 
 ---
 
@@ -34,17 +37,7 @@ If you have a project or idea, feel free to reach out.
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/100010207877779)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kawser_ahmed._)
 
----
 
-## 🛠️ Languages & Tools
-
-<p>
-  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
-  <img alt="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" />
-  <img alt="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
