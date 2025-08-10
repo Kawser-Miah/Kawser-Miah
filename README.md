@@ -1,20 +1,46 @@
-### Hi there 👋, I'm Kawser Miah
+# Hi, I'm Kawser Miah 👋
 
-- 🔭 I’m currently working on **Flutter.**
+I'm a passionate **Flutter developer** and a lifelong learner diving deep into **Dart & Flutter**.
 
-- 🌱 I’m currently learning **dart & flutter.**
+---
 
-- 👯 I’m looking to collaborate on **gitHub.**
+## 🔭 What I'm Working On
+- Building scalable and performant Flutter apps with clean architecture.
+- Improving my skills in Dart language and Flutter ecosystem.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kawserahme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawserahme" height="30" width="40" /></a>
-<a href="https://fb.com/100010207877779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100010207877779" height="30" width="40" /></a>
-<a href="https://instagram.com/kawser_ahmed._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawser_ahmed._" height="30" width="40" /></a>
+## 🌱 Currently Learning
+- Advanced Dart programming concepts
+- Flutter state management techniques
+- Best practices for mobile UI/UX
+
+## 👯 Let's Collaborate
+I'm open to contributing to interesting **open-source Flutter projects** on GitHub!  
+If you have a project or idea, feel free to reach out.
+
+---
+
+## 📫 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kawserahme)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/100010207877779)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kawser_ahmed._)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+  <img alt="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" />
+  <img alt="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawser-miah&show_icons=true&locale=en&layout=compact" alt="kawser-miah" /></p>
+## 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kawser-miah&show_icons=true&locale=en&layout=compact)
+
+---
+
+Thank you for stopping by! Feel free to explore my repositories and follow me for updates on my Flutter journey. 🚀
