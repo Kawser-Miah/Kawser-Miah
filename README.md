@@ -19,7 +19,6 @@ If you have a project or idea, feel free to reach out.
 
 ---
 
-## 🛠️ My Favorite Tech Stack
 
 ## 🛠️ My Favorite Tech Stack
 
